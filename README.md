@@ -10,5 +10,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Piorosen&count_private=true)](https://github.com/Piorosen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piorosen&layout=compact&hide_border=true)](https://github.com/Piorosen) 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aoikazto)](https://solved.ac/aoikazto)
 
 뭐든지 공부를 해볼려고 합니다.
