@@ -15,7 +15,7 @@
 ## 개발 내용 : (완성및 결과물 기준입니다.)
 
 ### 2020년
-개발 내용 : [유림 아이엔에스 사용자 페이지](http://www.directfyou.com)와 [관리자 페이지](http://www.directfyou.com/manager) 사이트 외주<br>
+개발 내용 : [유림 아이엔에스 사용자 페이지](http://www.directfyou.com)와 [관리자 페이지](http://www.directfyou.com/manager) 사이트 외주 [관련 코드](https://github.com/Piorosen/ulimins-outsourcing)<br>
 개발 내용 : [기숙사 발열 체크 자동화](https://github.com/Piorosen/github-Action-HangKik)<br>
 논문 : [파이프 핸들링과 트리핑 공정에 사용되는 이동형 시추 장비들을 위한 충돌 방지 시스템용 시뮬레이터 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09349359)<br>
 논문 : [효과적인 차량 선적을 위한 공간 배치의 최적화 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09308329)<br>
@@ -25,8 +25,9 @@
 * [[관련 코드](https://github.com/Piorosen/health-care-KoongHack)]<br>
 * [[모델링 프로젝트](https://github.com/Piorosen/Unreal-Drawing)]<br>
 
-대회 : 통합 성과 경진대회 우수상 [관련 코드](https://github.com/Piorosen/ChangUp)<br>
-
+대회 : 통합 성과 경진대회 우수상, 글자를 점자 변환 프로그램 [관련 코드](https://github.com/Piorosen/ChangUp)<br>  
+개발내용 : [OpenGL을 이용한 RayCasting 구현](https://blog.naver.com/aoikazto/221432998084) [관련 코드](https://github.com/Piorosen/OpenGL-RayCasting/tree/master/Project)<br>
+개발 내용 : [안창 마을 위험 지역 경고 프로그램](https://github.com/Piorosen/2019-2020-Video-Lee) 연구과제로 진행함. (Private 레포 아카이브 상태)<br>
 개발 내용 : 학교 전자 출석 어플 해킹 (자료는 나스에 있으나 공개가 조금 꺼려짐. 문서 정리후 다시 수정함)<br>
 개발 내용 : [유전 알고리즘을 활용한 이미지 학습](https://github.com/Piorosen/Genetic-Image-Constructor) 에 관한 [고찰](https://blog.naver.com/aoikazto/221507096763)<br>
 개발 내용 : [라비다란 사이트 파싱 툴](https://github.com/Piorosen/Lavida-Parsing/tree/master/LavidaParsing) [개발 영상](https://youtu.be/vOOf-KzfiPY)<br>
@@ -36,8 +37,19 @@
 논문 : [An Effective Method for Generating Color Images Using Genetic Algorithm](https://www.dbpia.co.kr/author/authorDetail?ancId=3476553)<br>
 
 ### 2018년
-개발 내용 : [Audio2Tag](https://github.com/Piorosen/DotNetAudio2Tag) C# 으로 개발 한 내용
-개발 내용 : [유전 알고리즘을 활용한 4족 보행 로봇](https://github.com/Piorosen/Genetic-Algorithm)에 관한 [고찰](https://blog.naver.com/aoikazto/221424970895)
+개발 내용 : [동의 대학교 행사 알림 프로그램](https://github.com/Piorosen/DEU-Project) [[플레이스토어](https://play.google.com/store/apps/details?id=com.AK.DEU_Project)] 내가 많이 귀찮았나봄<br>
+개발 내용 : [Json 데이터로 내부 데이터를 커스텀 가능한 라이브러리](https://github.com/Piorosen/Json-Custom-Designer) Reflect를 이용하여 제작함.<br>
+개발 내용 : [Audio2Tag](https://github.com/Piorosen/DotNetAudio2Tag) C# 으로 개발 한 내용<br>
+개발 내용 : [유전 알고리즘을 활용한 4족 보행 로봇](https://github.com/Piorosen/Genetic-Algorithm)에 관한 [고찰](https://blog.naver.com/aoikazto/221424970895)<br>
+개발 내용 : [쿠키런 같은 달리기 게임](https://github.com/Piorosen/Yore-Program/tree/master/Dx-2D-RunnerGame) DirectX 로 개발 함.<br>
+개발 내용 : [2D FPS 게임](https://github.com/Piorosen/Yore-Program/tree/master/Dx-Width-Shoot-Gmae) DirectX 로 개발 함. 부분 수식 교수님 도움을 받음.<br>
 
-### 2017년
-개발 내용 : [Exten Drive](https://github.com/Piorosen/Exten-Drive) : 여러개의 클라우드를 통합하여 하나 처럼 사용 할 수 있는 프로그램
+### 2016 ~ 2017년
+개발 내용 : [Exten Drive](https://github.com/Piorosen/Exten-Drive) : 여러개의 클라우드를 통합하여 하나 처럼 사용 할 수 있는 프로그램<br>
+
+## 2015년
+개발내용 : [윈도우 체험 지수 변경](https://github.com/Piorosen/Yore-Program/tree/master/Change-Experience-Point) 프로그램<br>
+
+## 2014년
+개발 내용 : [한국어 컴파일러](https://github.com/Piorosen/Korea-Compiler) 인터프린터 형식이며, 처음으로 만들어본 프로젝트<br>
+
