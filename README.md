@@ -7,7 +7,7 @@
 
 최근 공부 트렌드는 디자인 패턴, Docker, 리눅스 쪽으로 코딩 외적에 공부 중 입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Piorosen)](https://github.com/Piorosen)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Piorosen&count_private=true)](https://github.com/Piorosen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piorosen&layout=compact&hide_border=true)](https://github.com/Piorosen) 
