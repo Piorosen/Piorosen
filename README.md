@@ -17,6 +17,7 @@
 ## 개발 내용 : (완성및 결과물 기준입니다.)
 
 ### 2020년
+개발 내용 : T&1, Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션,  개발 [업체 페이지](http://www.tn1.co.kr/index) 사이트 
 개발 내용 : [유림 아이엔에스 사용자 페이지](http://www.directfyou.com)와 [관리자 페이지](http://www.directfyou.com/manager) 사이트 외주 [관련 코드](https://github.com/Piorosen/ulimins-outsourcing)<br>
 개발 내용 : [한글 비교 알고리즘](https://github.com/Piorosen/hangul-utils) [누겟 패키지](https://www.nuget.org/packages/HangulUtilsAK/) 매니저 처음으로 등록해봄<br>
 개발 내용 : [기숙사 발열 체크 자동화](https://github.com/Piorosen/github-Action-HangKik)<br>
@@ -24,7 +25,7 @@
 논문 : [효과적인 차량 선적을 위한 공간 배치의 최적화 기법](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09308329)<br>
 대회 및 개발 : [우리 아이 안전 걸음 맵](https://github.com/tomorrow9913/childrenSafeWalk), 대회는 K해커톤 8회 (우수상) 도움을 줌. ([릴리즈](https://play.google.com/store/apps/details?id=kr.co.woobi.tomorrow99.safewalk) 된 어플)<br>
 
-### 2019년
+### 2019년 
 대회 : [K 해커톤 7회 장려(소프트웨어교육혁신센터 이사장상)](http://swkorea.org/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?nType=UFFscUh5dURaU3p3Qi9SWHlzM3l6UEVPellyK3o5Q3ZNcDFOdTg4SlR4L29HMGlGbXdzRytkWFA0UFdEbW1ibXZZSlc5Z2xJeGVJVm1pZWVvLzRib3lhNDRLR3NBdzhYRlB3anNWYThpRzJpQUhxR282Q3kzMTJJbUhEa1JldUw=)<br>
 * [[관련 코드](https://github.com/Piorosen/health-care-KoongHack)]<br>
 * [[모델링 프로젝트](https://github.com/Piorosen/Unreal-Drawing)]<br>
