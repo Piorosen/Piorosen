@@ -16,6 +16,9 @@
 
 ## 개발 내용 : (완성및 결과물 기준입니다.)
 
+### 2021년
+개발 내용 : [애니플러스 API 서버를 이용하여 C#에서 간편하게 쓸수 있는 라이브러리 개발](https://github.com/Piorosen/aniplus-api)<br>
+
 ### 2020년
 해킹 : [동의대학교 출석 어플 해킹 : Fiddler 통하여 패킷 분석](https://github.com/Piorosen/deu-haking/2020/readme.md)<br>
 논문 : [딥러닝을 활용한 위험 지역 예측 기법](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10490534)<br>
