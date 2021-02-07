@@ -17,6 +17,7 @@
 ## 개발 내용 : (완성및 결과물 기준입니다.)
 
 ### 2021년
+개발 내용 : [EasyCLI](https://github.com/Piorosen/EasyCLI) 기존 코드를 베이스로, CLI 환경을 쉽게 만들어주는 라이브러리.
 개발 내용 : [애니플러스 API 서버를 이용하여 C#에서 간편하게 쓸수 있는 라이브러리 개발](https://github.com/Piorosen/aniplus-api)<br>
 
 ### 2020년
