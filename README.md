@@ -26,8 +26,10 @@
 해킹 : [동의대학교 출석 어플 해킹 : Fiddler 통하여 패킷 분석](https://github.com/Piorosen/deu-haking/2020/readme.md)<br>
 논문 : [딥러닝을 활용한 위험 지역 예측 기법](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10490534)<br>
 <div id="t1"></div>
+
 개발 내용 : T&1, Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션,  개발 [업체 페이지](http://www.tn1.co.kr/index) 사이트 <br>
 <div id="yu2020"></div>
+
 개발 내용 : [유림 아이엔에스 사용자 페이지](http://www.directfyou.com)와 [관리자 페이지](http://www.directfyou.com/manager) 사이트 외주 [관련 코드](https://github.com/Piorosen/ulimins-outsourcing)<br>
 개발 내용 : [한글 비교 알고리즘](https://github.com/Piorosen/hangul-utils) [누겟 패키지](https://www.nuget.org/packages/HangulUtilsAK/) 매니저 처음으로 등록해봄<br>
 개발 내용 : [기숙사 발열 체크 자동화](https://github.com/Piorosen/github-Action-HangKik)<br>
