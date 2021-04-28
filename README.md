@@ -17,7 +17,7 @@
 ## 개발 내용 : (완성및 결과물 기준입니다.)
 
 ### 2021년
-개발 내용 : [동의대학교 봉사활동](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest) 어플 개발, 이현섭 교수님 연계
+개발 내용 : [동의대학교 봉사활동](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest) 어플 개발, 이현섭 교수님 연계<br>
 개발 내용 : 유림 아이엔에스 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. <a href="#yu2020">2020년 작업 연계</a><br>
 개발 내용 : T&1, Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화 <a href="#t1">2020년 작업 연계</a><br>
 개발 내용 : [EasyCLI](https://github.com/Piorosen/EasyCLI) 기존 코드를 베이스로, CLI 환경을 쉽게 만들어주는 라이브러리. <br>
