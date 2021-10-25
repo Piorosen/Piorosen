@@ -1,4 +1,11 @@
-### 부산에서 개발중인 대학생입니다.
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=%EC%B0%A8%EC%B0%A8&fontSize=80)
+
+<div align="left">
+
+### 부산에서 개발중인 대학생입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+
 주로 C#에 흥미가 많아서 C#으로 코딩을 하지만
 
 요새는 애플에 푹 빠지게 되면서 Swift로 iOS 어플 개발중 입니다.
@@ -9,10 +16,10 @@
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Piorosen&count_private=true)](https://github.com/Piorosen)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piorosen&layout=compact&hide_border=true)](https://github.com/Piorosen)
+  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aoikazto)](https://solved.ac/aoikazto)
 
 ---
