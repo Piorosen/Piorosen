@@ -30,7 +30,9 @@
 
 |기간|종류|활동 내용|비고|
 |:----:|:-----:|:----:|:----:|
-|10.10 ~ 10.18|학술지|인공지능 교육을 위한 멀티 플랫폼 오목 교육 프로그램 설계, 투고 중|[한국정보통신학회](http://kiice.org/), 학술 대회|
+|10.17 ~ 12.25|외주|ECMO 디바이스의 UI와 컨트롤 장비 개발|[T&1](http://www.tn1.co.kr/), 외주|
+|10.16 ~ 2021.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주|
+|10.10 ~ 10.18|학술지|[인공지능 교육을 위한 멀티 플랫폼 오목 교육 프로그램 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10754888)|[한국정보통신학회](http://kiice.org/), 학술 대회|
 08.23 ~ 10.22|개발|멀티 플랫폼 오목 인공지능 개발|[레포지토리](https://github.com/Piorosen/gomoku-ai-rne.git), [개발 정리](https://piorosen.github.io/2021/09/02/buildsystem-cmake.html)|
 |10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.world/2021/10/17/android-launch.html)
 |03.20 ~ 06.04|개발|[누리아이엔에스](http://directfyou.com) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.|외주, [어려웠던 점](https://blog.udon.world/2021/05/22/Jquery-Zoom-Resize.html)
