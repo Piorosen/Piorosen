@@ -33,7 +33,7 @@
 |01.10 ~ |협업|-|삼성g2b|
 |🚩2022년||▲ 대학교 3학년||
 |10.17 ~ 12.25|외주|ECMO 디바이스의 UI와 컨트롤 장비 개발|[T&1](http://www.tn1.co.kr/), 외주|
-|10.16 ~ 2021.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주|
+|10.16 ~ 2021.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주, [정리](https://blog.udon.party/2022/01/18/lebengrida-outsorcing.html)|
 |10.10 ~ 10.18|학술지|[인공지능 교육을 위한 멀티 플랫폼 오목 교육 프로그램 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10754888)|[한국정보통신학회](http://kiice.org/), 학술 대회|
 08.23 ~ 10.22|개발|멀티 플랫폼 오목 인공지능 개발|[레포지토리](https://github.com/Piorosen/gomoku-ai-rne.git), [개발 정리](https://piorosen.github.io/2021/09/02/buildsystem-cmake.html)|
 |10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.party/2021/10/17/android-launch.html)
