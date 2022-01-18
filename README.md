@@ -4,7 +4,7 @@
 
 <div align="left">
 
-### 부산에서 개발중인 대학생입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+### 부산에서 개발중인 대학생입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 주로 C#에 흥미가 많아서 C#으로 코딩을 하지만
 
@@ -36,8 +36,8 @@
 |10.16 ~ 2021.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주|
 |10.10 ~ 10.18|학술지|[인공지능 교육을 위한 멀티 플랫폼 오목 교육 프로그램 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10754888)|[한국정보통신학회](http://kiice.org/), 학술 대회|
 08.23 ~ 10.22|개발|멀티 플랫폼 오목 인공지능 개발|[레포지토리](https://github.com/Piorosen/gomoku-ai-rne.git), [개발 정리](https://piorosen.github.io/2021/09/02/buildsystem-cmake.html)|
-|10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.world/2021/10/17/android-launch.html)
-|03.20 ~ 06.04|개발|[누리아이엔에스](http://directfyou.com) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.|외주, [어려웠던 점](https://blog.udon.world/2021/05/22/Jquery-Zoom-Resize.html)
+|10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.party/2021/10/17/android-launch.html)
+|03.20 ~ 06.04|개발|[누리아이엔에스](http://directfyou.com) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.|외주, [어려웠던 점](https://blog.udon.party/2021/05/22/Jquery-Zoom-Resize.html)
 |03.12 ~ 03.20|유지 보수|Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화 |[T&1](http://www.tn1.co.kr/), 2020년 연계|
 |02.01 ~ 02.11|라이브러리|기존 코드를 베이스로, CLI 환경을 쉽게 만들어주는 라이브러리.|[EasyCLI 레포](https://github.com/Piorosen/EasyCLI)
 |01.26 ~ 02.10|라이브러리|애니플러스 API 서버를 이용하여 C#에서 간편하게 쓸수 있는 라이브러리 개발|[레포지토리](https://github.com/Piorosen/aniplus-api)
@@ -66,7 +66,7 @@
 |12.24 ~ 19.02.07|개발|[OpenGL을 이용한 RayCasting 구현](https://blog.naver.com/aoikazto/221432998084)|[레포지토리](https://github.com/Piorosen/OpenGL-RayCasting/tree/master/Project)
 |12.22 ~ 19.01.02|개발|유전 알고리즘을 활용한 4족 보행 로봇|[레포지토리](https://github.com/Piorosen/Genetic-Algorithm), [고찰](https://blog.naver.com/aoikazto/221424970895)
 |10.17 ~ 12.07|개발|동의대학교 행사 알림 프로그램|[레포지토리](https://github.com/Piorosen/DEU-Project), [플레이스토어](https://play.google.com/store/apps/details?id=com.AK.DEU_Project), [Xamarin](https://docs.microsoft.com/ko-kr/xamarin/get-started/what-is-xamarin)
-|11.18 ~ 19.01.19|라이브러리|Json 데이터로 내부 데이터를 커스텀 가능한 라이브러리|[레포지토리](https://github.com/Piorosen/Json-Custom-Designer), [SDUI](https://blog.udon.world/2021/08/20/Server-Driven-UserInterface.html)
+|11.18 ~ 19.01.19|라이브러리|Json 데이터로 내부 데이터를 커스텀 가능한 라이브러리|[레포지토리](https://github.com/Piorosen/Json-Custom-Designer), [SDUI](https://blog.udon.party/2021/08/20/Server-Driven-UserInterface.html)
 |알수 없음|개발|DirectX 11을 활용 한 쿠키런, 2D 슈팅 게임|DirectX 11, [쿠키런 레포](https://github.com/Piorosen/Yore-Program/tree/master/Dx-2D-RunnerGame), [2D FPS 게임 레포](https://github.com/Piorosen/Yore-Program/tree/master/Dx-Width-Shoot-Gmae)
 |🚩2018년||▲ 대학교 1학년||
 |알수 없음|개발|중, 고등학교 때 시간이 날 때 만들던 프로그램! ><*|[레포지토리](https://github.com/Piorosen/Yore-Program)
