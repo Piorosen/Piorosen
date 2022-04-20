@@ -30,6 +30,7 @@
 
 |기간|종류|활동 내용|비고|
 |:----:|:-----:|:----:|:----:|
+|03.30|보안 관련|MITM(중간자 공격)을 통한 SSL 무력화를 통한 동의 D-Pay 시스템 공격|상세 내용 공개 불가능|
 |03.17 ~ 04.15|개발|동의대학교 공지사항 대시보드 구현|[자동배포 레포](https://github.com/asw-dod/argo-cd), [데이터 수집 레포](https://github.com/asw-dod/dap-macro), [UI 대시보드 레포](https://github.com/asw-dod/DoD_DashBoard), [정리](https://blog.udon.party/2022/03/30/dashboard.html)|
 |01.10 ~ |협업|-|삼성g2b|
 |🚩2022년||▲ 대학교 3학년||
@@ -42,7 +43,7 @@
 |02.01 ~ 02.11|라이브러리|기존 코드를 베이스로, CLI 환경을 쉽게 만들어주는 라이브러리.|[EasyCLI 레포](https://github.com/Piorosen/EasyCLI)
 |01.26 ~ 02.10|라이브러리|애니플러스 API 서버를 이용하여 C#에서 간편하게 쓸수 있는 라이브러리 개발|[레포지토리](https://github.com/Piorosen/aniplus-api)
 |🚩2021년||▲ 휴학 2년차|외주는 겸직 허가 받았음.|
-|11.28 ~ 11.29|버그 바운티|동의대학교 출석 어플, Fiddler 통하여 패킷 분석 SSL인증서 무력화|[관련자료](https://github.com/Piorosen/deu-hacking/2020/readme.md)
+|11.28 ~ 11.29|보안 관련|동의대학교 출석 어플, Fiddler 통하여 패킷 분석 SSL인증서 무력화|[관련자료](https://github.com/Piorosen/deu-hacking/2020/readme.md)
 |10.10 ~ 10.17|학술지|[딥러닝을 활용한 위험 지역 예측 기법](https://dbpia.co.kr/journal/articleDetail?nodeId=NODE10490534)|[한국정보통신학회](http://kiice.org/), 학술 대회, 1 저자|
 |09.23 ~ 11.19|외주|Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 개발|[T&1](http://www.tn1.co.kr/)
 |09.21 ~ 11.09|라이브러리|한글 비교 라이브러리 개발|[레포지토리](https://github.com/Piorosen/hangul-utils), [누겟 패키지](https://www.nuget.org/packages/HangulUtilsAK/), [깃허브 액션](https://github.com/Piorosen/hangul-utils/blob/master/.github/workflows/dotnet-core.yml), [유닛 테스팅](https://github.com/Piorosen/hangul-utils/blob/master/Test/TrueTest.cs)
@@ -59,7 +60,7 @@
 |06.01 ~ 06.30|학술지|[An Effective Method for Generating Color Images Using Genetic Algorithm](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08747485)|[한국정보통신학회](http://kiice.org/), 1 저자
 |05.25|개발|라비다 저지 사이트 파싱 툴|[레포지토리](https://github.com/Piorosen/Lavida-Parsing), [개발 영상](https://youtu.be/vOOf-KzfiPY)
 |04.12 ~ 05.07|개발|유전 알고리즘을 활용한 이미지 학습|[레포지토리](https://github.com/Piorosen/Genetic-Image-Constructor), [고찰](https://blog.naver.com/aoikazto/221507096763)
-|03.12 ~ 03.13|버그 바운티|동의대학교 출석 어플, WireShark를 통하여 패킷 분석|[관련자료](https://github.com/Piorosen/deu-hacking/blob/main/2019/%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B2%B0%EA%B3%BC%EB%AC%BC.png)
+|03.12 ~ 03.13|보안 관련|동의대학교 출석 어플, WireShark를 통하여 패킷 분석|[관련자료](https://github.com/Piorosen/deu-hacking/blob/main/2019/%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9D%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B2%B0%EA%B3%BC%EB%AC%BC.png)
 |01.06 ~ 02.04|개발|안창 마을 위험 지역 경고 어플리케이션|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest)
 |01.14 ~ 06.02|개발|Audio2Tag, 음악 파일 관리 및 태그 자동화 시스템|[레포지토리](https://github.com/Piorosen/DotNetAudio2Tag)
 |🚩2019년||▲ 대학교 2학년||
