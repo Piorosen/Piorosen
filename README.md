@@ -34,6 +34,7 @@
 |03.30|보안 관련|MITM(중간자 공격)을 통한 SSL 무력화를 통한 동의 D-Pay 시스템 공격|상세 내용 공개 불가능|
 |03.17 ~ 04.15|개발|동의대학교 공지사항 대시보드 구현|[자동배포 레포](https://github.com/asw-dod/argo-cd), [데이터 수집 레포](https://github.com/asw-dod/dap-macro), [UI 대시보드 레포](https://github.com/asw-dod/DoD_DashBoard), [정리](https://blog.udon.party/2022/03/30/dashboard.html)|
 |01.10 ~ |협업|-|삼성g2b|
+|01.10 ~ |직책| 학생 연구원 겸 창업, 취업, 봉사 동아리 운영 |동아리 회장|
 |🚩2022년||▲ 대학교 3학년||
 |10.16 ~ 21.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주, [정리](https://blog.udon.party/2022/01/18/lebengrida-outsorcing.html)|
 |10.10 ~ 10.18|학술지|[인공지능 교육을 위한 멀티 플랫폼 오목 교육 프로그램 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10754888)|[한국정보통신학회](http://kiice.org/), 학술 대회|
