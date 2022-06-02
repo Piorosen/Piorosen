@@ -30,6 +30,7 @@
 
 |기간|종류|활동 내용|비고|
 |:----:|:-----:|:----:|:----:|
+|05.30 ~ 06.02|과제| (OpenGL 2.0) 유사 페글린 게임 구현 |[레포지토리](https://github.com/Piorosen/opengl-popcornjoo)|
 |04.14 ~ 05.10|외주|MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현|[바코드 리더기](https://github.com/Piorosen/javascript-barcode-image), [프린터기](https://github.com/Piorosen/toshiba-fv4t-printer)|
 |03.30|보안 관련|MITM(중간자 공격)을 통한 SSL 무력화를 통한 동의 D-Pay 시스템 공격|상세 내용 공개 불가능|
 |03.17 ~ 04.15|개발|동의대학교 공지사항 대시보드 구현|[자동배포 레포](https://github.com/asw-dod/argo-cd), [데이터 수집 레포](https://github.com/asw-dod/dap-macro), [UI 대시보드 레포](https://github.com/asw-dod/DoD_DashBoard), [정리](https://blog.udon.party/2022/03/30/dashboard.html)|
