@@ -6,13 +6,11 @@
 
 ### 부산에서 개발중인 대학생입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-주로 C#에 흥미가 많아서 C#으로 코딩을 하지만
+거진 C#을 7~8년 동안 써보면서 장단점이 너무 확실해서 접고 Go, C++언어 활용하여 개발 하고 있습니다.
 
-부산에 개발 인력이 많이 없어 Swift로 iOS 개발 했던 내용이 커서, iOS 어플 개발도 진행 하고 있습니다.
+최근 공부 트렌드는 CI/CD, Kubernetes, EFK, Kafka 쪽으로 공부하고 있습니다.
 
-최근 공부 트렌드는 CI/CD, k8s, gRPC 쪽으로 공부 중 입니다.
-  
-2022년 학습, 개발 목표는 새로운 연구과제나 서버를 개발 할 때 C# 이나 기존에 공부했던 내용이 아닌, Go 언어와 gRPC를 이용할 예정입니다.
+현재 새롭게 진행하고 있는 프로젝트는 서버는 Go언어를 이용하여 구현하고 있습니다. 특수한 경우 GUI가 필요하다면 C#을 쓰고 있습니다.
 
 ---
 
