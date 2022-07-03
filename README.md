@@ -45,6 +45,7 @@
 |10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.party/2021/10/17/android-launch.html)|
 |10.01 ~ 10.02|대회|4C 블렌디드 융합 프로그램 MIX|우수상, [주관](https://deu.ac.kr), [주최](http://wannabes.co.kr/)|
 |08.23 ~ 10.22|개발|멀티 플랫폼 오목 인공지능 개발|[레포지토리](https://github.com/Piorosen/gomoku-ai-rne.git), [개발 정리](https://piorosen.github.io/2021/09/02/buildsystem-cmake.html)|
+|06.22|특허|영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법|[특허 자료](https://doi.org/10.8080/1020190165757), 등록|
 |03.20 ~ 06.04|개발|[누리아이엔에스](http://directfyou.com) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.|외주, [어려웠던 점](https://blog.udon.party/2021/05/22/Jquery-Zoom-Resize.html)
 |03.12 ~ 03.20|유지 보수|Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화 |[T&1](http://www.tn1.co.kr/), 2020년 연계|
 |02.01 ~ 02.11|라이브러리|기존 코드를 베이스로, CLI 환경을 쉽게 만들어주는 라이브러리.|[EasyCLI 레포](https://github.com/Piorosen/EasyCLI)
@@ -86,7 +87,7 @@
 
 ## 📚 참여 연구 과제
 
-|기간|참여 과제 명|비고|
+|기간|참여 과제 명|
 |:----:|:-----:|:-----:|
 |22.04.01 ~ 22.06.30|핀 불량 검사를 위한 인공지능 기반의 자동 판정 알고리즘 개발|
 |22.01.01 ~ 22.02.28|크레인 카메라 영상을 이용한 야드장 내 작업자 안전 위치 모니터링|
