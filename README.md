@@ -75,6 +75,7 @@
 
 |기간|종류|활동 내용|비고|
 |:----:|:-----:|:----:|:----:|
+|10.13|학술지|해양시추용 충돌방지시스템의 시각화에 관한 연구|한국해양공학회|
 |07.01 ~ 08.31|인턴|한국전자통신연구원 하계 연구연수생||
 |06.23|수료|NVIDIA DLI Certificate – CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초|[라이센스 및 인증](https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/), [PDF](/cetificate/nvidia-cuda.pdf)|
 |06.22|수료|NVIDIA DLI Certificate – 딥러닝의 기초|[라이센스 및 인증](https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba/), [PDF](/cetificate/nvidia-deeplearning.pdf)|
