@@ -82,17 +82,17 @@
 |04.14 ~ 05.10|외주|MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현|(주)와이제이솔루션, [바코드 리더기](https://github.com/Piorosen/javascript-barcode-image), [프린터기](https://github.com/Piorosen/toshiba-fv4t-printer)|
 |04.01 ~ 12.31|과제 및 외주|족민의 달배 서비스 개발|[서버 주소](https://moon.udon.party/)|
 |03.30|보안 관련|MITM(중간자 공격)을 통한 SSL 무력화를 통한 동의 D-Pay 시스템 공격|상세 내용 공개 불가능|
-|03.17 ~ 04.15|개발|동의대학교 공지사항 대시보드 구현|[자동배포 레포](https://github.com/asw-dod/argo-cd), [데이터 수집 레포](https://github.com/asw-dod/dap-macro), [UI 대시보드 레포](https://github.com/asw-dod/DoD_DashBoard), [정리](https://blog.udon.party/2022/03/30/dashboard.html)|
+|03.17 ~ 04.15|개발|동의대학교 공지사항 대시보드 구현|[자동배포 레포](https://github.com/asw-dod/argo-cd), [데이터 수집 레포](https://github.com/asw-dod/dap-macro), [UI 대시보드 레포](https://github.com/asw-dod/DoD_DashBoard), [정리](https://blog.udon.party/posts/dashboard.html)|
 |01.10 ~ |협업|-|삼성g2b|
 |03. 01 ~ 23.02.28|직책| 학생 연구원 겸 창업, 취업, 봉사 동아리 운영 |동아리 회장|
 |🚩2022년||▲ 대학교 3학년||
-|10.16 ~ 21.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주, [정리](https://blog.udon.party/2022/01/18/lebengrida-outsorcing.html)|
+|10.16 ~ 21.01.05|외주|레벤그리다 어플리케이션 외주 (아이폰 개발)|[레벤그리다](https://blog.naver.com/lebengrida), 외주, [정리](https://blog.udon.party/posts/lebengrida-outsorcing.html)|
 |10.10 ~ 10.18|학술지|[인공지능 교육을 위한 멀티 플랫폼 오목 교육 프로그램 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10754888)|[한국정보통신학회](http://kiice.org/), 학술 대회|
-|10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.party/2021/10/17/android-launch.html)|
+|10.12 ~ 10.21|개발 및 출시|[이현섭 교수](https://asw.deu.ac.kr/dept01/544/subview.do)님과 "동의대학교 봉사활동" 어플 개발|[PlayStore](https://play.google.com/store/apps/details?id=com.maptest.gomjae.maptest), [요약](https://blog.udon.party/posts/android-launch.html)|
 |10.01 ~ 10.02|대회|4C 블렌디드 융합 프로그램 MIX|우수상, [주관](https://deu.ac.kr), [주최](http://wannabes.co.kr/)|
 |08.23 ~ 10.22|개발|멀티 플랫폼 오목 인공지능 개발|[레포지토리](https://github.com/Piorosen/gomoku-ai-rne.git), [개발 정리](https://piorosen.github.io/2021/09/02/buildsystem-cmake.html)|
 |06.22|특허|영상 내 자막 키워드 추출 및 순위 산정 시스템 및 방법|[특허 자료](https://doi.org/10.8080/1020190165757), 등록|
-|03.20 ~ 06.04|개발|[누리아이엔에스](http://directfyou.com) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.|외주, [어려웠던 점](https://blog.udon.party/2021/05/22/Jquery-Zoom-Resize.html)
+|03.20 ~ 06.04|개발|[누리아이엔에스](http://directfyou.com) 페이지 외주, 서브 도메인, 사용자 페이지 UI 변경 및 고객 방문 카운팅 프로그램 제작. 유지보수 기간 포함.|외주, [어려웠던 점](https://blog.udon.party/posts/Jquery-Zoom-Resize.html)
 |03.12 ~ 03.20|유지 보수|Mono(C#)을 이용하여 의학 장비 UI 및 애니메이션 최적화 작업 및 고도화 |[T&1](http://www.tn1.co.kr/), 2020년 연계|
 |02.01 ~ 02.11|라이브러리|기존 코드를 베이스로, CLI 환경을 쉽게 만들어주는 라이브러리.|[EasyCLI 레포](https://github.com/Piorosen/EasyCLI)
 |01.26 ~ 02.10|라이브러리|애니플러스 API 서버를 이용하여 C#에서 간편하게 쓸수 있는 라이브러리 개발|[레포지토리](https://github.com/Piorosen/aniplus-api)
@@ -120,7 +120,7 @@
 |🚩2019년||▲ 대학교 2학년||
 |12.24 ~ 19.02.07|개발|[OpenGL을 이용한 RayCasting 구현](https://blog.naver.com/aoikazto/221432998084)|[레포지토리](https://github.com/Piorosen/OpenGL-RayCasting/tree/master/Project)
 |12.22 ~ 19.01.02|개발|유전 알고리즘을 활용한 4족 보행 로봇|[레포지토리](https://github.com/Piorosen/Genetic-Algorithm), [고찰](https://blog.naver.com/aoikazto/221424970895)
-|11.18 ~ 19.01.19|라이브러리|Json 데이터로 내부 데이터를 커스텀 가능한 라이브러리|[레포지토리](https://github.com/Piorosen/Json-Custom-Designer), [SDUI](https://blog.udon.party/2021/08/20/Server-Driven-UserInterface.html)
+|11.18 ~ 19.01.19|라이브러리|Json 데이터로 내부 데이터를 커스텀 가능한 라이브러리|[레포지토리](https://github.com/Piorosen/Json-Custom-Designer), [SDUI](https://blog.udon.party/posts/Server-Driven-UserInterface.html)
 |10.17 ~ 12.07|개발|동의대학교 행사 알림 프로그램|[레포지토리](https://github.com/Piorosen/DEU-Project), [플레이스토어](https://play.google.com/store/apps/details?id=com.AK.DEU_Project), [Xamarin](https://docs.microsoft.com/ko-kr/xamarin/get-started/what-is-xamarin)
 |알수 없음|개발|DirectX 11을 활용 한 쿠키런, 2D 슈팅 게임|DirectX 11, [쿠키런 레포](https://github.com/Piorosen/Yore-Program/tree/master/Dx-2D-RunnerGame), [2D FPS 게임 레포](https://github.com/Piorosen/Yore-Program/tree/master/Dx-Width-Shoot-Gmae)
 |🚩2018년||▲ 대학교 1학년||
