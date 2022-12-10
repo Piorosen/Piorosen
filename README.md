@@ -75,6 +75,7 @@
 
 |기간|종류|활동 내용|비고|
 |:----:|:-----:|:----:|:----:|
+|10.13|학술지|단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색|대한전자공학회|
 |10.13|학술지|해양시추용 충돌방지시스템의 시각화에 관한 연구|한국해양공학회|
 |07.01 ~ 08.31|인턴|한국전자통신연구원 하계 연구연수생||
 |06.22 ~ 06.23|수료|NVIDIA DLI Certificate – 딥러닝의 기초, CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초|[NVIDA(기초)](https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba/), [PDF(기초)](/cetificate/nvidia-deeplearning.pdf), [NVIDIA(CUDA)](https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/), [PDF(CUDA)](/cetificate/nvidia-cuda.pdf)|
