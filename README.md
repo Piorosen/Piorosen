@@ -75,12 +75,11 @@
 
 |기간|종류|활동 내용|비고|
 |:----:|:-----:|:----:|:----:|
-
-|01.02 ~ 02.28|인턴|한국전자통신연구원 동계 연구연수생|하계와 동일한 박사님|
+|01.02 ~ 02.28|인턴|한국전자통신연구원 동계 연구연수생|[권용인 박사님](https://ksp.etri.re.kr/ksp/user/read?id=06832)|
 |🚩2022년||▲ 대학교 3학년||
 |10.13|학술지|단일 ISA 이기종 멀티 코어 구조를 위한 프로파일 기반 ArmCL 최적 스케줄 탐색|대한전자공학회|
 |10.13|학술지|해양시추용 충돌방지시스템의 시각화에 관한 연구|한국해양공학회|
-|07.01 ~ 08.31|인턴|한국전자통신연구원 하계 연구연수생||
+|07.01 ~ 08.31|인턴|한국전자통신연구원 하계 연구연수생|[권용인 박사님](https://ksp.etri.re.kr/ksp/user/read?id=06832)|
 |06.22 ~ 06.23|수료|NVIDIA DLI Certificate – 딥러닝의 기초, CUDA C/C++ 를 활용한 가속화 컴퓨팅 기초|[NVIDA(기초)](https://courses.nvidia.com/certificates/f7ac9a6f1b8a45568a4b8ed2ff09adba/), [PDF(기초)](/cetificate/nvidia-deeplearning.pdf), [NVIDIA(CUDA)](https://courses.nvidia.com/certificates/cf714047f3ea48a0923f711464148e63/), [PDF(CUDA)](/cetificate/nvidia-cuda.pdf)|
 |05.30 ~ 06.02|과제| (OpenGL 2.0) 유사 페글린 게임 구현 |[레포지토리](https://github.com/Piorosen/opengl-popcornjoo), [유튜브 영상](https://youtu.be/E2IK1jFpJvI)|
 |04.14 ~ 05.10|외주|MES 시스템 중 웹에서 인식 가능한 바코드 리더기, 프린터기 모듈 구현, iFrame을 이용한 크롬의 탭과 같은 멀티 페이지 구현|(주)와이제이솔루션, [바코드 리더기](https://github.com/Piorosen/javascript-barcode-image), [프린터기](https://github.com/Piorosen/toshiba-fv4t-printer)|
