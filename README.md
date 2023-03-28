@@ -1,76 +1,23 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=%EC%B0%A8%EC%B0%A8&fontSize=80)
-
-<div align="left">
-
 ### 부산에서 개발중인 대학생입니다. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiorosen%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-거진 C#을 7~8년 동안 써보면서 장단점이 너무 확실해서 접고 Go, C++언어 활용하여 개발 하고 있습니다.
+제가 모르는 분야는 정말 많아 모든 것을 공부하고자 하는 열망이 있습니다.
 
-최근 공부 트렌드는 CI/CD, Kubernetes, EFK, Kafka 쪽으로 공부하고 있습니다.
+이전에는 쿠버네티스와 마이크로 서비스에 대해서 공부를 하여, CI/CD를 구축 하였고 네트워크 통신에 대해서 잘 알고 있습니다.
 
-현재 새롭게 진행하고 있는 프로젝트는 서버는 Go언어를 이용하여 구현하고 있습니다. 특수한 경우 GUI가 필요하다면 C#을 쓰고 있습니다.
+현재는 임베디드와 운영체제에 대해서 공부를 하여 ARM 하드웨어 기반 딥 러닝 연산 최적화에 대해서 연구하고 있습니다.
 
----
+다음에 공부 할 것은 코테 해야죠 뭐... 취업하려면
 
-# 개발 언어
-
-#### 주력언어
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
-#### 읽고 작성 가능한 레벨
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-#### 운영체제
-
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-#### 능숙하게 사용 가능한 프로그램
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piorosen&layout=compact&hide_border=true)](https://github.com/Piorosen)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aoikazto)](https://solved.ac/aoikazto)
-
----
-
-<div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piorosen&theme=gruvbox)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piorosen&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piorosen&theme=gruvbox)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piorosen&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piorosen&theme=gruvbox&utcOffset=9)
   
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=aoikazto)](https://solved.ac/aoikazto) -->
+
+---
+
 ## 📚 개발 프로젝트 참여
 
 |기간|종류|활동 내용|비고|
