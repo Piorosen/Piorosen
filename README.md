@@ -2,6 +2,12 @@
 
 I live in Pusan, Republic Of Korea now. and I interest in Compiler, Infrastructure and How to manage Resource Efficiency.
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Piorosen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Piorosen&theme=onedark&title=Stars,MultiLanguage,Organizations,Issues,PullRequest,Commits&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piorosen&theme=gruvbox)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piorosen&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piorosen&theme=gruvbox)  
